@@ -63,21 +63,6 @@
 ---
 
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#395](https://github.com/w3schools-test/w3schools-test.github.io/pull/395) in [w3schools-test/w3schools-test.github.io](https://github.com/w3schools-test/w3schools-test.github.io)
-2. 🗣 Commented on [#1](https://github.com/mehedi360272/mehedi360272/issues/1) in [mehedi360272/mehedi360272](https://github.com/mehedi360272/mehedi360272)
-3. 🗣 Commented on [#1](https://github.com/mehedi360272/mehedi360272/issues/1) in [mehedi360272/mehedi360272](https://github.com/mehedi360272/mehedi360272)
-4. ❗️ Opened issue [#1](https://github.com/mehedi360272/mehedi360272/issues/1) in [mehedi360272/mehedi360272](https://github.com/mehedi360272/mehedi360272)
-<!--END_SECTION:activity-->
-
-</details>
-
----
-
-
 <div align="center">
   <a href="#"><img alt="Khondoker Md. Mehedi Hasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mehedi360272&show_icons=true&include_all_commits=true&count_private=true&theme=react&show_icons=true&hide_border=true" height="170"/></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi360272&theme=react&langs_count=10&layout=compact&hide_border=true" height="170"/></a>
