@@ -12,20 +12,22 @@
 - 👯 I’m looking to collaborate on with other developers for the invention
 - ⚡ Fun fact: I love to enjoying music 🎧 and traveling ✈️
 
----
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mehedi360272&bg_color=20232a&color=FF0000&line=57bcda&point=109be0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 ---
 
 
-<div align="center">
+<div >
   <a href="#"><img alt="Khondoker Md. Mehedi Hasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mehedi360272&show_icons=true&include_all_commits=true&count_private=true&theme=react&show_icons=true&hide_border=true" height="170"/></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi360272&theme=react&langs_count=10&layout=compact&hide_border=true" height="170"/></a>
   
   <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 </div>
+
+---
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mehedi360272&bg_color=20232a&color=FF0000&line=57bcda&point=109be0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
