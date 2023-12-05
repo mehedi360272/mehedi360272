@@ -20,6 +20,16 @@
 ---
 
 
+<div align="center">
+  <a href="#"><img alt="Khondoker Md. Mehedi Hasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mehedi360272&show_icons=true&include_all_commits=true&count_private=true&theme=react&show_icons=true&hide_border=true" height="170"/></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi360272&theme=react&langs_count=10&layout=compact&hide_border=true" height="170"/></a>
+  
+  <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
+</div>
+
+---
+
+
 ### 🔌 Connect with me: <a href="#"><img src="https://github.com/mehedi360272/mehedi360272/blob/b0bae46424ad374066a97a129b40472a02ff3794/.github/images/hand_wave.gif" height="30px"></a>
 <p>
   <a style="text-decoration: none;" href="https://bd.linkedin.com/in/khondokar-md-mehedi-hasan-7159341b2" target="blank" title="LinkedIn">
@@ -59,15 +69,3 @@
   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Odoo_logo.svg"/>
 </p>
 
-
----
-
-
-<div align="center">
-  <a href="#"><img alt="Khondoker Md. Mehedi Hasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mehedi360272&show_icons=true&include_all_commits=true&count_private=true&theme=react&show_icons=true&hide_border=true" height="170"/></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi360272&theme=react&langs_count=10&layout=compact&hide_border=true" height="170"/></a>
-  
-  <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
-</div>
-
----
