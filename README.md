@@ -17,3 +17,25 @@ Here are some ideas to get you started:
 ---
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mehedi360272&bg_color=20232a&color=ffffff&line=57bcda&point=109be0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+---
+
+
+### 🔌 Connect with me: <a href="#"><img src="https://github.com/mehedi360272/mehedi360272/blob/b0bae46424ad374066a97a129b40472a02ff3794/.github/images/hand_wave.gif" height="30px"></a>
+<p>
+  <a style="text-decoration: none;" href="https://bd.linkedin.com/in/khondokar-md-mehedi-hasan-7159341b2" target="blank" title="LinkedIn">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="30" />
+  </a>
+  <a style="text-decoration: none;" href="https://github.com/mehedi360272" target="blank" title="GutHub">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="20" width="30" />
+  </a>
+  <a style="text-decoration: none;" href="https://twitter.com/mehedi360272" target="blank" title="Twitter">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="20" width="30" />
+  </a>
+  <a style="text-decoration: none;" href="https://facebook.com/mehedi360272" target="blank" title="Facebook">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="20" width="30" />
+  </a>
+</p>
+
+---
