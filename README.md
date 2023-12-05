@@ -1,4 +1,7 @@
-# Hi there 👋
+<h1 align="center">
+  Hi there <a href="#"><img src="https://github.com/mehedi360272/mehedi360272/blob/b0bae46424ad374066a97a129b40472a02ff3794/.github/images/hand_wave.gif" width="45px" height="45px"/></a>, I'm Khondokar Md. Mehedi Hasan
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=%2338C2FF&size=35&center=true&vCenter=true&height=60&width=600&lines=Back+End+Developer;Odoo+Developer;Python+Developer;Tech+Enthusiast;Entrepreneur"></img>
+</h1>
 
 
 **mehedi360272/mehedi360272** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
