@@ -32,25 +32,6 @@
 ---
 
 
-### 🔌 Connect with me: <a href="#"><img src="https://github.com/mehedi360272/mehedi360272/blob/b0bae46424ad374066a97a129b40472a02ff3794/.github/images/hand_wave.gif" height="30px"></a>
-<p>
-  <a style="text-decoration: none;" href="https://bd.linkedin.com/in/khondokar-md-mehedi-hasan-7159341b2" target="blank" title="LinkedIn">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="30" />
-  </a>
-  <a style="text-decoration: none;" href="https://github.com/mehedi360272" target="blank" title="GutHub">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="20" width="30" />
-  </a>
-  <a style="text-decoration: none;" href="https://twitter.com/mehedi360272" target="blank" title="Twitter">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="20" width="30" />
-  </a>
-  <a style="text-decoration: none;" href="https://facebook.com/mehedi360272" target="blank" title="Facebook">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="20" width="30" />
-  </a>
-</p>
-
----
-
-
 ### 🛠️ Tech Stack: <a href="#"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="30px"></a>
 <p>
   <img width="30" height="30" src="https://code.visualstudio.com/favicon.ico"/>
@@ -70,4 +51,26 @@
   <img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Odoo_logo.svg"/>
 </p>
+
+
+---
+
+
+### 🔌 Connect with me: <a href="#"><img src="https://github.com/mehedi360272/mehedi360272/blob/b0bae46424ad374066a97a129b40472a02ff3794/.github/images/hand_wave.gif" height="30px"></a>
+<p>
+  <a style="text-decoration: none;" href="https://bd.linkedin.com/in/khondokar-md-mehedi-hasan-7159341b2" target="blank" title="LinkedIn">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="30" />
+  </a>
+  <a style="text-decoration: none;" href="https://github.com/mehedi360272" target="blank" title="GutHub">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="20" width="30" />
+  </a>
+  <a style="text-decoration: none;" href="https://twitter.com/mehedi360272" target="blank" title="Twitter">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="20" width="30" />
+  </a>
+  <a style="text-decoration: none;" href="https://facebook.com/mehedi360272" target="blank" title="Facebook">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="20" width="30" />
+  </a>
+</p>
+
+---
 
