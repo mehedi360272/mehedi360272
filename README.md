@@ -25,9 +25,7 @@
 
 ---
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mehedi360272&bg_color=ffffff&color=2d202c&line=71416e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mehedi360272&bg_color=20232a&color=ffffff&line=57bcda&point=109be0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
