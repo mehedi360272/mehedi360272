@@ -7,9 +7,7 @@
 
 ---
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
 - 🌱 I’m currently learning Everything
 - 👯 I’m looking to collaborate on with other developers for the invention
 - ⚡ Fun fact: I love to enjoying music 🎧 and traveling ✈️
