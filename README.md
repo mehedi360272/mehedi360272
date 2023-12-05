@@ -16,6 +16,7 @@
 
 ---
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehedi360272&theme=aura)
 
 <div >
   <a href="#"><img alt="Khondoker Md. Mehedi Hasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mehedi360272&show_icons=true&include_all_commits=true&count_private=true&theme=react&show_icons=true&hide_border=true" height="170"/></a>
@@ -26,8 +27,6 @@
 
 ---
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mehedi360272&theme=dracula)](https://github.com/mehedi360272/github-readme-activity-graph)
 
 ---
 
