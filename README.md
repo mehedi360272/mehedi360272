@@ -6,7 +6,6 @@
 <h3 align="center">Odoo Developer | Python | Problem Solver | Tech Enthusiast <br/>From Bangladesh 🇧🇩</h3>
 
 
----
 
 
 - 🌱 I’m currently learning Everything
@@ -14,7 +13,7 @@
 - ⚡ Fun fact: I love to enjoying music 🎧 and traveling ✈️
 
 
----
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehedi360272&theme=aura)
 
@@ -25,10 +24,8 @@
   <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 </div>
 
----
 
 
----
 
 
 ### 🛠️ Tech Stack: <a href="#"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="30px"></a>
@@ -52,7 +49,7 @@
 </p>
 
 
----
+
 
 
 ## ☕ Connect with me!
