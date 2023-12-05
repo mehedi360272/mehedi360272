@@ -3,7 +3,7 @@
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=%2338C2FF&size=35&center=true&vCenter=true&height=60&width=600&lines=Back+End+Developer;Odoo+Developer;Python+Developer;Tech+Enthusiast;Entrepreneur"></img>
 </h1>
 
-<h3 align="center">Odoo ERP Expert | Python | EdTech | Tech Enthusiast <br/>From Bangladesh 🇧🇩</h3>
+<h3 align="center">Odoo Developer | Python | EdTech | Tech Enthusiast <br/>From Bangladesh 🇧🇩</h3>
 
 
 **mehedi360272/mehedi360272** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
