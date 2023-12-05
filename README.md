@@ -61,3 +61,18 @@
 
 
 ---
+
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#395](https://github.com/w3schools-test/w3schools-test.github.io/pull/395) in [w3schools-test/w3schools-test.github.io](https://github.com/w3schools-test/w3schools-test.github.io)
+2. 🗣 Commented on [#1](https://github.com/mehedi360272/mehedi360272/issues/1) in [mehedi360272/mehedi360272](https://github.com/mehedi360272/mehedi360272)
+3. 🗣 Commented on [#1](https://github.com/mehedi360272/mehedi360272/issues/1) in [mehedi360272/mehedi360272](https://github.com/mehedi360272/mehedi360272)
+4. ❗️ Opened issue [#1](https://github.com/mehedi360272/mehedi360272/issues/1) in [mehedi360272/mehedi360272](https://github.com/mehedi360272/mehedi360272)
+<!--END_SECTION:activity-->
+
+</details>
+
+---
