@@ -3,7 +3,7 @@
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=%2338C2FF&size=35&center=true&vCenter=true&height=60&width=600&lines=Odoo+Developer;Problem+Solver;Tech+Enthusiast"></img>
 </h1>
 
-<h3 align="center">Odoo Developer | Python | Problem Solver | Tech Enthusiast <br/>From Bangladesh 🇧🇩</h3>
+<h3 align="center">Odoo Developer | Problem Solver | Tech Enthusiast <br/>From Bangladesh 🇧🇩</h3>
 
 
 - 🌱 I’m currently learning Everything
