@@ -1,6 +1,5 @@
 ### Hi there 👋, Mehedi Hasan here with you !
   
-<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="200"/>
 <p align="center">
 
   
