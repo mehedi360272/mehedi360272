@@ -27,4 +27,3 @@
   </br>
 </p>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/mehedi360272/university_club_management_portal_odoo_v16?style=plastic)
