@@ -17,7 +17,7 @@
 
 <h3>My coding stack: </h3>
 <p>
-  <img alt="Odoo" src="https://cdn.simpleicons.org/odoo?viewbox=auto"/>
+  <img width="30" height="30" alt="Odoo" src="https://cdn.simpleicons.org/odoo?viewbox=auto"/>
   <img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" />
   <img alt="PostgreSql" src="https://img.icons8.com/color/48/000000/postgreesql.png" /> 
   <img alt="Javascript" src="https://img.icons8.com/color/50/000000/javascript.png" /> 
