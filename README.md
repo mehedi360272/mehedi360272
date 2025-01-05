@@ -17,12 +17,11 @@
 
 <h3>My coding stack: </h3>
 <p>
+  <img height="30" src="https://cdn.simpleicons.org/odoo?viewbox=auto"/>
   <img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" />
   <img alt="PostgreSql" src="https://img.icons8.com/color/48/000000/postgreesql.png" /> 
   <img alt="Javascript" src="https://img.icons8.com/color/50/000000/javascript.png" /> 
   <img alt="Github" src="https://img.icons8.com/doodle/48/000000/github.png" /> 
-  <img height="30" src="https://cdn.simpleicons.org/odoo?viewbox=auto"/>
-  <img alt="Odoo" src="https://github.com/satishprajapati1/satishprajapati1/assets/102359970/1911c4d4-c33d-496f-8610-26c74f001a37" width="5%"/>
   <img alt="Docker" src="https://img.icons8.com/color/48/000000/docker-container.png" />
 
   </br>
