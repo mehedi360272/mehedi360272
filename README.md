@@ -23,6 +23,8 @@
   <img height="30" alt="Javascript" src="https://img.icons8.com/color/50/000000/javascript.png" /> 
   <img height="30" alt="Github" src="https://img.icons8.com/doodle/48/000000/github.png" /> 
   <img height="30" alt="Docker" src="https://img.icons8.com/color/48/000000/docker-container.png" />
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
 
   </br>
 </p>
