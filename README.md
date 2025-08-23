@@ -1,6 +1,8 @@
 <h3 align="center">Greetings!</h3>
-<h5 align="center">I am the tech enthusiast, dedicated to learning the latest technologies.</h5>
+<h5 align="center">I am a tech enthusiast, dedicated to learning the latest technologies.</h5>
 <p align="center">
+<img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="130">
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi360272&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi360272" /> </p>
 
