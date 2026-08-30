@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer @ Jalalabad Group | Odoo ERP Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Odoo+ERP+Developer+(v15-19);Python+%7C+PostgreSQL+%7C+OWL+%7C+QWeb;Building+custom+business+solutions;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Odoo+ERP+Developer+(v13-19);Python+%7C+PostgreSQL+%7C+OWL+%7C+QWeb;Building+custom+business+solutions;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </p>
 
 <p align="center">
